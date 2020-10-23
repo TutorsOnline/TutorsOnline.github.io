@@ -1129,3 +1129,7 @@
 .pats {
     background-image: url("https://cdn.discordapp.com/emojis/388842338056929290.png")
 }
+
+.center {
+    text-align: center;
+}
