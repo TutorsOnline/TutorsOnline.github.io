@@ -6015,11 +6015,11 @@
         
         .table-container table.table-center {
             display: block;
-            text-align: center
         }
         
         .table-container table.table-center table {
-            margin: 0 auto
+            margin: 0 auto;
+            text-align: center
         }
         
         .table-container table tr {
@@ -6042,7 +6042,7 @@
         .table-container table th {
             border: 1px solid #353535;
             box-sizing: border-box;
-            font-size: 12px;
+            font-size: 30px;
             font-weight: 600;
             height: 48px;
             letter-spacing: 0;
@@ -6060,7 +6060,7 @@
             border-radius: .25em;
             color: #fff;
             display: inline-block;
-            font-size: 12px;
+            font-size: 24px;
             font-weight: bold;
             letter-spacing: 1px;
             margin-left: 6px;
